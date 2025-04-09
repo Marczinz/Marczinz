@@ -34,6 +34,14 @@ Olá! Sou um desenvolvedor Web iniciante, apaixonado por tecnologia e design. <b
    style="padding-right:10px;"/>
 
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"     
+  alt="boost"
+   align="left"
+   width="30px"
+   tittle=boostrap
+   style="padding-right:10px;"/>
+
+
 
    
   
