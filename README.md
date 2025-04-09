@@ -1,16 +1,53 @@
-## Hi there 👋
+  # 🖥️ Marcos
+ **`👨‍💻 Desenvolvedor Web`**
+ 
+Olá! Sou um desenvolvedor Web iniciante, apaixonado por tecnologia e design. <br>
+               Adoro transformar ideias em interfaces bonitas e funcionais, utilizando HTML, CSS e JavaScript.
+               Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para criar experiências interativas e responsivas. <br>
+               Estou animado para crescer na área e contribuir com projetos inovadores!
+                          
+---
+###  🛠️ Ferramentas e Tecnologias
 
-<!--
-**Marczinz/Marczinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"       
+   alt="HTML"
+   align="left"
+   width="30px"
+   tittle=HTML
+   style="padding-right:10px;"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"        
+     alt="CSS"
+     align="left"
+    width="30px"
+     tittle=CSS
+    style="padding-right:10px;"/>
+
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    alt="JS"
+   align="left"
+   width="30px"
+   tittle=JS
+   style="padding-right:10px;"/>
+
+
+
+   
+  
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
